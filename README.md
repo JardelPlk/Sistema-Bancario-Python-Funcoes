@@ -1,3 +1,3 @@
-# Desafio em Python: Sistema bancário
+# Desafio em Python: Sistema Bancário
 
-Sistema bancário com as operações: sacar, depositar, visualizar extrato, criar e listar usuarios e criar contas.
+Sistema bancário com as operações: sacar, depositar, visualizar extrato, criar e listar usuários e criar contas.
